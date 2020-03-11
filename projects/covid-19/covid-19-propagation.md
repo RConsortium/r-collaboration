@@ -1,6 +1,8 @@
 # Propagation of Coronavirus(COVID-19)
 
-## Authors: Juan Francisco Venegas Gutiérrez
+## Authors
+- Juan Francisco Venegas Gutiérrez
+
 Working with Shiny for 1+ years
 
 ## Abstract
