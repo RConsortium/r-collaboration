@@ -4,9 +4,11 @@
 
 Working with Shiny for 1+ years
 
-## Abstract: An open source coronavirus tracker
+## Abstract
+An open source coronavirus tracker
 
-## Full Description: The application uses three sources pulls and presents the user with three source of data. One can interactively test the app in 3 lines of code.
+## Full Description
+The application uses three sources pulls and presents the user with three source of data. One can interactively test the app in 3 lines of code.
 
 ```
 virus <- coronavirus::crawl_coronavirus()
