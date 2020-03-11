@@ -3,8 +3,6 @@
 ## Authors
 - Juan Francisco Venegas Gutiérrez
 
-Working with Shiny for 1+ years
-
 ## Abstract
 The following dashboard shows the global spread of COVID-19, where the information for the different countries is exposed together with relevant statistics. Finally, a predictive model of machine learning for the city of Hubei was developed.
 
