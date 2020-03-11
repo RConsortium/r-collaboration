@@ -7,3 +7,7 @@ Open Collaboration, Data Registry, and Use Cases Developed by the global R Commu
 ### Coronavirus COVID-19
 
 [COVID-19 Project Workspace](projects/covid-19/)
+
+## Data
+
+[Datasets](data/README.md)
