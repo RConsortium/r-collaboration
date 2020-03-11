@@ -1,8 +1,7 @@
 # Coronavirus Tracker
 
-## Authors: John Coene
-
-Working with Shiny for 1+ years
+## Authors
+- John Coene
 
 ## Abstract
 An open source coronavirus tracker
