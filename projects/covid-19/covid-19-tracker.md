@@ -23,3 +23,7 @@ If interested one can then deploy the application by creating a config file (cre
 
 ## Thumbnail
 ![alt text](https://community.rstudio.com/uploads/default/optimized/3X/f/f/ff19074abf10b1697f96cc7e95a30adae5ca7402_2_396x240.png)
+
+
+## Full Image
+![alt text](https://community.rstudio.com/uploads/default/optimized/3X/1/8/181497152f879f3ab46a450e95d0a8dce9121e7f_2_666x500.jpeg)
