@@ -2,6 +2,21 @@
 
 Open Collaboration, Data Registry, and Use Cases Developed by the global R Community
 
+## Resources
+
+@TODO - Project publishing (Shinyapps.io)
+
+@TODO - Technical mentorship, guidance
+
+## Collaboration
+
+@TODO
+
+- Slack
+- Groups.io
+- Github
+- Zoom and Webinars
+
 ## Projects
 
 ### Coronavirus COVID-19
